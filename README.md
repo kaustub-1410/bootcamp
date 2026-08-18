@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/kaustub-1410/bootcamp/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/kaustub-1410/bootcamp/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/kaustub-1410/bootcamp/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kaustub-1410/bootcamp/tree/master/0876-middle-of-the-linked-list) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/kaustub-1410/bootcamp/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/kaustub-1410/bootcamp/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
