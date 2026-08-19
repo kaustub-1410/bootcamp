@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1763-longest-nice-substring](https://github.com/kaustub-1410/bootcamp/tree/master/1763-longest-nice-substring) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kaustub-1410/bootcamp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/kaustub-1410/bootcamp/tree/master/0198-house-robber) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kaustub-1410/bootcamp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Linked List
 |  |
 | ------- |
@@ -55,8 +57,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/kaustub-1410/bootcamp/tree/master/0876-middle-of-the-linked-list) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kaustub-1410/bootcamp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/kaustub-1410/bootcamp/tree/master/1386-cinema-seat-allocation) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kaustub-1410/bootcamp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
