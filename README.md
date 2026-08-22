@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/kaustub-1410/bootcamp/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/kaustub-1410/bootcamp/tree/master/0225-implement-stack-using-queues) |
 | [0707-design-linked-list](https://github.com/kaustub-1410/bootcamp/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
@@ -139,6 +140,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/kaustub-1410/bootcamp/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/kaustub-1410/bootcamp/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/kaustub-1410/bootcamp/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kaustub-1410/bootcamp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/kaustub-1410/bootcamp/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
