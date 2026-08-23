@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/kaustub-1410/bootcamp/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kaustub-1410/bootcamp/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kaustub-1410/bootcamp/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [3310-remove-methods-from-project](https://github.com/kaustub-1410/bootcamp/tree/master/3310-remove-methods-from-project) |
 ## Math
 |  |
 | ------- |
@@ -173,4 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/kaustub-1410/bootcamp/tree/master/1510-stone-game-iv) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/kaustub-1410/bootcamp/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/kaustub-1410/bootcamp/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
