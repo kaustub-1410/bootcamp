@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kaustub-1410/bootcamp/tree/master/0198-house-robber) |
 | [0682-baseball-game](https://github.com/kaustub-1410/bootcamp/tree/master/0682-baseball-game) |
 | [1386-cinema-seat-allocation](https://github.com/kaustub-1410/bootcamp/tree/master/1386-cinema-seat-allocation) |
+| [1872-stone-game-viii](https://github.com/kaustub-1410/bootcamp/tree/master/1872-stone-game-viii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kaustub-1410/bootcamp/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kaustub-1410/bootcamp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Dynamic Programming
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/kaustub-1410/bootcamp/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/kaustub-1410/bootcamp/tree/master/0198-house-robber) |
 | [1510-stone-game-iv](https://github.com/kaustub-1410/bootcamp/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/kaustub-1410/bootcamp/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kaustub-1410/bootcamp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Linked List
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/kaustub-1410/bootcamp/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/kaustub-1410/bootcamp/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/kaustub-1410/bootcamp/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kaustub-1410/bootcamp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kaustub-1410/bootcamp/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -157,11 +160,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/kaustub-1410/bootcamp/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/kaustub-1410/bootcamp/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/kaustub-1410/bootcamp/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/kaustub-1410/bootcamp/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/kaustub-1410/bootcamp/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
@@ -174,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/kaustub-1410/bootcamp/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/kaustub-1410/bootcamp/tree/master/1872-stone-game-viii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -182,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/kaustub-1410/bootcamp/tree/master/3310-remove-methods-from-project) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/kaustub-1410/bootcamp/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
