@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/kaustub-1410/bootcamp/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/kaustub-1410/bootcamp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/kaustub-1410/bootcamp/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kaustub-1410/bootcamp/tree/master/0046-permutations) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaustub-1410/bootcamp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/kaustub-1410/bootcamp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/kaustub-1410/bootcamp/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kaustub-1410/bootcamp/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/kaustub-1410/bootcamp/tree/master/0450-delete-node-in-a-bst) |
