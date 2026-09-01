@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kaustub-1410/bootcamp/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kaustub-1410/bootcamp/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kaustub-1410/bootcamp/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kaustub-1410/bootcamp/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## String
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/kaustub-1410/bootcamp/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/kaustub-1410/bootcamp/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kaustub-1410/bootcamp/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/kaustub-1410/bootcamp/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Dynamic Programming
 |  |
 | ------- |
