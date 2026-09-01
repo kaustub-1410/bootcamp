@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaustub-1410/bootcamp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kaustub-1410/bootcamp/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1763-longest-nice-substring](https://github.com/kaustub-1410/bootcamp/tree/master/1763-longest-nice-substring) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/kaustub-1410/bootcamp/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kaustub-1410/bootcamp/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kaustub-1410/bootcamp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kaustub-1410/bootcamp/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/kaustub-1410/bootcamp/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kaustub-1410/bootcamp/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/kaustub-1410/bootcamp/tree/master/0874-walking-robot-simulation) |
 | [2069-walking-robot-simulation-ii](https://github.com/kaustub-1410/bootcamp/tree/master/2069-walking-robot-simulation-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kaustub-1410/bootcamp/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/kaustub-1410/bootcamp/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/kaustub-1410/bootcamp/tree/master/1872-stone-game-viii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/kaustub-1410/bootcamp/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Backtracking
 |  |
 | ------- |
