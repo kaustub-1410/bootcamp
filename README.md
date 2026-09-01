@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kaustub-1410/bootcamp/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1763-longest-nice-substring](https://github.com/kaustub-1410/bootcamp/tree/master/1763-longest-nice-substring) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/kaustub-1410/bootcamp/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/kaustub-1410/bootcamp/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kaustub-1410/bootcamp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kaustub-1410/bootcamp/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/kaustub-1410/bootcamp/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/kaustub-1410/bootcamp/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kaustub-1410/bootcamp/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1872-stone-game-viii](https://github.com/kaustub-1410/bootcamp/tree/master/1872-stone-game-viii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/kaustub-1410/bootcamp/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/kaustub-1410/bootcamp/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Backtracking
 |  |
 | ------- |
