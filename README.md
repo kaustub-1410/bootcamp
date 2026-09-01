@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/kaustub-1410/bootcamp/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kaustub-1410/bootcamp/tree/master/0225-implement-stack-using-queues) |
 | [0707-design-linked-list](https://github.com/kaustub-1410/bootcamp/tree/master/0707-design-linked-list) |
+| [2069-walking-robot-simulation-ii](https://github.com/kaustub-1410/bootcamp/tree/master/2069-walking-robot-simulation-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/kaustub-1410/bootcamp/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/kaustub-1410/bootcamp/tree/master/0682-baseball-game) |
 | [0874-walking-robot-simulation](https://github.com/kaustub-1410/bootcamp/tree/master/0874-walking-robot-simulation) |
+| [2069-walking-robot-simulation-ii](https://github.com/kaustub-1410/bootcamp/tree/master/2069-walking-robot-simulation-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kaustub-1410/bootcamp/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Depth-First Search
 |  |
