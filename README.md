@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/kaustub-1410/bootcamp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/kaustub-1410/bootcamp/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/kaustub-1410/bootcamp/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/kaustub-1410/bootcamp/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/kaustub-1410/bootcamp/tree/master/0046-permutations) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaustub-1410/bootcamp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kaustub-1410/bootcamp/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kaustub-1410/bootcamp/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/kaustub-1410/bootcamp/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kaustub-1410/bootcamp/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kaustub-1410/bootcamp/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kaustub-1410/bootcamp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/kaustub-1410/bootcamp/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/kaustub-1410/bootcamp/tree/master/0042-trapping-rain-water) |
 | [0876-middle-of-the-linked-list](https://github.com/kaustub-1410/bootcamp/tree/master/0876-middle-of-the-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kaustub-1410/bootcamp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/kaustub-1410/bootcamp/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kaustub-1410/bootcamp/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/kaustub-1410/bootcamp/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kaustub-1410/bootcamp/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/kaustub-1410/bootcamp/tree/master/0682-baseball-game) |
@@ -336,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/kaustub-1410/bootcamp/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kaustub-1410/bootcamp/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kaustub-1410/bootcamp/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kaustub-1410/bootcamp/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
