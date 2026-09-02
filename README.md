@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kaustub-1410/bootcamp/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/kaustub-1410/bootcamp/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0047-permutations-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaustub-1410/bootcamp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kaustub-1410/bootcamp/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0198-house-robber](https://github.com/kaustub-1410/bootcamp/tree/master/0198-house-robber) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/kaustub-1410/bootcamp/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kaustub-1410/bootcamp/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0047-permutations-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0047-permutations-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kaustub-1410/bootcamp/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kaustub-1410/bootcamp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Enumeration
