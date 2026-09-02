@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kaustub-1410/bootcamp/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/kaustub-1410/bootcamp/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/kaustub-1410/bootcamp/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/kaustub-1410/bootcamp/tree/master/0191-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/kaustub-1410/bootcamp/tree/master/1386-cinema-seat-allocation) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kaustub-1410/bootcamp/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/kaustub-1410/bootcamp/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kaustub-1410/bootcamp/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/kaustub-1410/bootcamp/tree/master/0089-gray-code) |
 | [0509-fibonacci-number](https://github.com/kaustub-1410/bootcamp/tree/master/0509-fibonacci-number) |
 | [1510-stone-game-iv](https://github.com/kaustub-1410/bootcamp/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/kaustub-1410/bootcamp/tree/master/1872-stone-game-viii) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/kaustub-1410/bootcamp/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kaustub-1410/bootcamp/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0047-permutations-ii) |
+| [0089-gray-code](https://github.com/kaustub-1410/bootcamp/tree/master/0089-gray-code) |
 ## Memoization
 |  |
 | ------- |
