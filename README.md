@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/kaustub-1410/bootcamp/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/kaustub-1410/bootcamp/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/kaustub-1410/bootcamp/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/kaustub-1410/bootcamp/tree/master/0056-merge-intervals) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaustub-1410/bootcamp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kaustub-1410/bootcamp/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/kaustub-1410/bootcamp/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kaustub-1410/bootcamp/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/kaustub-1410/bootcamp/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/kaustub-1410/bootcamp/tree/master/0089-gray-code) |
 ## Memoization
 |  |
@@ -383,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/kaustub-1410/bootcamp/tree/master/0056-merge-intervals) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/kaustub-1410/bootcamp/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
