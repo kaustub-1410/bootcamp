@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kaustub-1410/bootcamp/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/kaustub-1410/bootcamp/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/kaustub-1410/bootcamp/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/kaustub-1410/bootcamp/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/kaustub-1410/bootcamp/tree/master/0056-merge-intervals) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaustub-1410/bootcamp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kaustub-1410/bootcamp/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kaustub-1410/bootcamp/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/kaustub-1410/bootcamp/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/kaustub-1410/bootcamp/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/kaustub-1410/bootcamp/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kaustub-1410/bootcamp/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/kaustub-1410/bootcamp/tree/master/0118-pascals-triangle) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/kaustub-1410/bootcamp/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/kaustub-1410/bootcamp/tree/master/0055-jump-game) |
 | [1386-cinema-seat-allocation](https://github.com/kaustub-1410/bootcamp/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/kaustub-1410/bootcamp/tree/master/1927-sum-game) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kaustub-1410/bootcamp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
