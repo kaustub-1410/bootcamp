@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/kaustub-1410/bootcamp/tree/master/0874-walking-robot-simulation) |
 | [0994-rotting-oranges](https://github.com/kaustub-1410/bootcamp/tree/master/0994-rotting-oranges) |
 | [1386-cinema-seat-allocation](https://github.com/kaustub-1410/bootcamp/tree/master/1386-cinema-seat-allocation) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/kaustub-1410/bootcamp/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1872-stone-game-viii](https://github.com/kaustub-1410/bootcamp/tree/master/1872-stone-game-viii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kaustub-1410/bootcamp/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kaustub-1410/bootcamp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
