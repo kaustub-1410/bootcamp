@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/kaustub-1410/bootcamp/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1763-longest-nice-substring](https://github.com/kaustub-1410/bootcamp/tree/master/1763-longest-nice-substring) |
 | [1927-sum-game](https://github.com/kaustub-1410/bootcamp/tree/master/1927-sum-game) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/kaustub-1410/bootcamp/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kaustub-1410/bootcamp/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kaustub-1410/bootcamp/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kaustub-1410/bootcamp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/kaustub-1410/bootcamp/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/kaustub-1410/bootcamp/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1872-stone-game-viii](https://github.com/kaustub-1410/bootcamp/tree/master/1872-stone-game-viii) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/kaustub-1410/bootcamp/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/kaustub-1410/bootcamp/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kaustub-1410/bootcamp/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kaustub-1410/bootcamp/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -413,4 +415,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/kaustub-1410/bootcamp/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0052-n-queens-ii) |
+## Trie
+|  |
+| ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/kaustub-1410/bootcamp/tree/master/2452-words-within-two-edits-of-dictionary) |
 <!---LeetCode Topics End-->
