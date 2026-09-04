@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/kaustub-1410/bootcamp/tree/master/1763-longest-nice-substring) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kaustub-1410/bootcamp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kaustub-1410/bootcamp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3488-closest-equal-element-queries](https://github.com/kaustub-1410/bootcamp/tree/master/3488-closest-equal-element-queries) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kaustub-1410/bootcamp/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kaustub-1410/bootcamp/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kaustub-1410/bootcamp/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kaustub-1410/bootcamp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kaustub-1410/bootcamp/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kaustub-1410/bootcamp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3488-closest-equal-element-queries](https://github.com/kaustub-1410/bootcamp/tree/master/3488-closest-equal-element-queries) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kaustub-1410/bootcamp/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/kaustub-1410/bootcamp/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/kaustub-1410/bootcamp/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/kaustub-1410/bootcamp/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kaustub-1410/bootcamp/tree/master/0701-insert-into-a-binary-search-tree) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kaustub-1410/bootcamp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3488-closest-equal-element-queries](https://github.com/kaustub-1410/bootcamp/tree/master/3488-closest-equal-element-queries) |
 ## Binary Tree
 |  |
 | ------- |
