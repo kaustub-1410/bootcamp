@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/kaustub-1410/bootcamp/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/kaustub-1410/bootcamp/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/kaustub-1410/bootcamp/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/kaustub-1410/bootcamp/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/kaustub-1410/bootcamp/tree/master/0125-valid-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/kaustub-1410/bootcamp/tree/master/0657-robot-return-to-origin) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kaustub-1410/bootcamp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
