@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/kaustub-1410/bootcamp/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/kaustub-1410/bootcamp/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/kaustub-1410/bootcamp/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/kaustub-1410/bootcamp/tree/master/0068-text-justification) |
 | [0115-distinct-subsequences](https://github.com/kaustub-1410/bootcamp/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/kaustub-1410/bootcamp/tree/master/0125-valid-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/kaustub-1410/bootcamp/tree/master/0657-robot-return-to-origin) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kaustub-1410/bootcamp/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/kaustub-1410/bootcamp/tree/master/0068-text-justification) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaustub-1410/bootcamp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kaustub-1410/bootcamp/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/kaustub-1410/bootcamp/tree/master/0118-pascals-triangle) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/kaustub-1410/bootcamp/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/kaustub-1410/bootcamp/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/kaustub-1410/bootcamp/tree/master/0068-text-justification) |
 | [0657-robot-return-to-origin](https://github.com/kaustub-1410/bootcamp/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/kaustub-1410/bootcamp/tree/master/0682-baseball-game) |
 | [0874-walking-robot-simulation](https://github.com/kaustub-1410/bootcamp/tree/master/0874-walking-robot-simulation) |
