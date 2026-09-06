@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kaustub-1410/bootcamp/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/kaustub-1410/bootcamp/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/kaustub-1410/bootcamp/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/kaustub-1410/bootcamp/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/kaustub-1410/bootcamp/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/kaustub-1410/bootcamp/tree/master/0125-valid-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/kaustub-1410/bootcamp/tree/master/0657-robot-return-to-origin) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kaustub-1410/bootcamp/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/kaustub-1410/bootcamp/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/kaustub-1410/bootcamp/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/kaustub-1410/bootcamp/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/kaustub-1410/bootcamp/tree/master/0191-number-of-1-bits) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/kaustub-1410/bootcamp/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/kaustub-1410/bootcamp/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/kaustub-1410/bootcamp/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/kaustub-1410/bootcamp/tree/master/0682-baseball-game) |
 | [0874-walking-robot-simulation](https://github.com/kaustub-1410/bootcamp/tree/master/0874-walking-robot-simulation) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kaustub-1410/bootcamp/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/kaustub-1410/bootcamp/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/kaustub-1410/bootcamp/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/kaustub-1410/bootcamp/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/kaustub-1410/bootcamp/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/kaustub-1410/bootcamp/tree/master/0089-gray-code) |
 | [0509-fibonacci-number](https://github.com/kaustub-1410/bootcamp/tree/master/0509-fibonacci-number) |
