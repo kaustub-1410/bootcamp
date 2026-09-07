@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kaustub-1410/bootcamp/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/kaustub-1410/bootcamp/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/kaustub-1410/bootcamp/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/kaustub-1410/bootcamp/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/kaustub-1410/bootcamp/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/kaustub-1410/bootcamp/tree/master/0125-valid-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/kaustub-1410/bootcamp/tree/master/0657-robot-return-to-origin) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kaustub-1410/bootcamp/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kaustub-1410/bootcamp/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/kaustub-1410/bootcamp/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/kaustub-1410/bootcamp/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/kaustub-1410/bootcamp/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kaustub-1410/bootcamp/tree/master/0124-binary-tree-maximum-path-sum) |
