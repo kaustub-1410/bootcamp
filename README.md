@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/kaustub-1410/bootcamp/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/kaustub-1410/bootcamp/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/kaustub-1410/bootcamp/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/kaustub-1410/bootcamp/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/kaustub-1410/bootcamp/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/kaustub-1410/bootcamp/tree/master/0125-valid-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/kaustub-1410/bootcamp/tree/master/0657-robot-return-to-origin) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/kaustub-1410/bootcamp/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kaustub-1410/bootcamp/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/kaustub-1410/bootcamp/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/kaustub-1410/bootcamp/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaustub-1410/bootcamp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kaustub-1410/bootcamp/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/kaustub-1410/bootcamp/tree/master/0118-pascals-triangle) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kaustub-1410/bootcamp/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/kaustub-1410/bootcamp/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kaustub-1410/bootcamp/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/kaustub-1410/bootcamp/tree/master/0200-number-of-islands) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/kaustub-1410/bootcamp/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/kaustub-1410/bootcamp/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/kaustub-1410/bootcamp/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/kaustub-1410/bootcamp/tree/master/0089-gray-code) |
 ## Memoization
 |  |
@@ -441,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/kaustub-1410/bootcamp/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/kaustub-1410/bootcamp/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kaustub-1410/bootcamp/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/kaustub-1410/bootcamp/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/kaustub-1410/bootcamp/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/kaustub-1410/bootcamp/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kaustub-1410/bootcamp/tree/master/0994-rotting-oranges) |
