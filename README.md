@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kaustub-1410/bootcamp/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/kaustub-1410/bootcamp/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/kaustub-1410/bootcamp/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/kaustub-1410/bootcamp/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaustub-1410/bootcamp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kaustub-1410/bootcamp/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0874-walking-robot-simulation](https://github.com/kaustub-1410/bootcamp/tree/master/0874-walking-robot-simulation) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kaustub-1410/bootcamp/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/kaustub-1410/bootcamp/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/kaustub-1410/bootcamp/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaustub-1410/bootcamp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kaustub-1410/bootcamp/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/kaustub-1410/bootcamp/tree/master/0118-pascals-triangle) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kaustub-1410/bootcamp/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/kaustub-1410/bootcamp/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/kaustub-1410/bootcamp/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/kaustub-1410/bootcamp/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kaustub-1410/bootcamp/tree/master/0994-rotting-oranges) |
