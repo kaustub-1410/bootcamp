@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/kaustub-1410/bootcamp/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kaustub-1410/bootcamp/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/kaustub-1410/bootcamp/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaustub-1410/bootcamp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kaustub-1410/bootcamp/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/kaustub-1410/bootcamp/tree/master/0118-pascals-triangle) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/kaustub-1410/bootcamp/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kaustub-1410/bootcamp/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/kaustub-1410/bootcamp/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/kaustub-1410/bootcamp/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/kaustub-1410/bootcamp/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/kaustub-1410/bootcamp/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kaustub-1410/bootcamp/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kaustub-1410/bootcamp/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/kaustub-1410/bootcamp/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kaustub-1410/bootcamp/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/kaustub-1410/bootcamp/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/kaustub-1410/bootcamp/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kaustub-1410/bootcamp/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/kaustub-1410/bootcamp/tree/master/0682-baseball-game) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/kaustub-1410/bootcamp/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kaustub-1410/bootcamp/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/kaustub-1410/bootcamp/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/kaustub-1410/bootcamp/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/kaustub-1410/bootcamp/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/kaustub-1410/bootcamp/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kaustub-1410/bootcamp/tree/master/0994-rotting-oranges) |
@@ -461,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kaustub-1410/bootcamp/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kaustub-1410/bootcamp/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/kaustub-1410/bootcamp/tree/master/0085-maximal-rectangle) |
 ## Quicksort
 |  |
 | ------- |
