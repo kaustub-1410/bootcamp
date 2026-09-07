@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/kaustub-1410/bootcamp/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/kaustub-1410/bootcamp/tree/master/0125-valid-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/kaustub-1410/bootcamp/tree/master/0657-robot-return-to-origin) |
+| [0940-distinct-subsequences-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kaustub-1410/bootcamp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/kaustub-1410/bootcamp/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1763-longest-nice-substring](https://github.com/kaustub-1410/bootcamp/tree/master/1763-longest-nice-substring) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/kaustub-1410/bootcamp/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/kaustub-1410/bootcamp/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/kaustub-1410/bootcamp/tree/master/0509-fibonacci-number) |
+| [0940-distinct-subsequences-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0940-distinct-subsequences-ii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/kaustub-1410/bootcamp/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1510-stone-game-iv](https://github.com/kaustub-1410/bootcamp/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/kaustub-1410/bootcamp/tree/master/1872-stone-game-viii) |
