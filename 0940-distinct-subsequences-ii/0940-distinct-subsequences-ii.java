@@ -10,19 +10,19 @@ class Solution {
         Arrays.fill(last, -1);
 
         for (int i = 1; i <= n; i++) {
-            char c = s.charAt(i - 1);
+            char ch = s.charAt(i - 1);
 
             dp[i] = (2 * dp[i - 1]) % MOD;
 
-            int prev = last[c - 'a'];
+            int prev = last[ch - 'a'];
 
             if (prev != -1) {
                 dp[i] = (dp[i] - dp[prev] + MOD) % MOD;
             }
 
-            last[c - 'a'] = i - 1;
+            last[ch - 'a'] = i - 1;
         }
 
-        return (int)((dp[n] - 1 + MOD) % MOD); // remove empty subsequence
+        return (int)((dp[n] - 1 + MOD) % MOD);
     }
 }
