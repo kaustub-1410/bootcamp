@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/kaustub-1410/bootcamp/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/kaustub-1410/bootcamp/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/kaustub-1410/bootcamp/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/kaustub-1410/bootcamp/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/kaustub-1410/bootcamp/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/kaustub-1410/bootcamp/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/kaustub-1410/bootcamp/tree/master/0200-number-of-islands) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kaustub-1410/bootcamp/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/kaustub-1410/bootcamp/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/kaustub-1410/bootcamp/tree/master/0135-candy) |
 | [1386-cinema-seat-allocation](https://github.com/kaustub-1410/bootcamp/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/kaustub-1410/bootcamp/tree/master/1927-sum-game) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kaustub-1410/bootcamp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
