@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/kaustub-1410/bootcamp/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/kaustub-1410/bootcamp/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/kaustub-1410/bootcamp/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/kaustub-1410/bootcamp/tree/master/0139-word-break) |
 | [0874-walking-robot-simulation](https://github.com/kaustub-1410/bootcamp/tree/master/0874-walking-robot-simulation) |
 | [1386-cinema-seat-allocation](https://github.com/kaustub-1410/bootcamp/tree/master/1386-cinema-seat-allocation) |
 | [1763-longest-nice-substring](https://github.com/kaustub-1410/bootcamp/tree/master/1763-longest-nice-substring) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/kaustub-1410/bootcamp/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/kaustub-1410/bootcamp/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/kaustub-1410/bootcamp/tree/master/0139-word-break) |
 | [0657-robot-return-to-origin](https://github.com/kaustub-1410/bootcamp/tree/master/0657-robot-return-to-origin) |
 | [0940-distinct-subsequences-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kaustub-1410/bootcamp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/kaustub-1410/bootcamp/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/kaustub-1410/bootcamp/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/kaustub-1410/bootcamp/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/kaustub-1410/bootcamp/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/kaustub-1410/bootcamp/tree/master/0200-number-of-islands) |
 | [0682-baseball-game](https://github.com/kaustub-1410/bootcamp/tree/master/0682-baseball-game) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/kaustub-1410/bootcamp/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/kaustub-1410/bootcamp/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/kaustub-1410/bootcamp/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/kaustub-1410/bootcamp/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/kaustub-1410/bootcamp/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0940-distinct-subsequences-ii) |
@@ -530,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kaustub-1410/bootcamp/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/kaustub-1410/bootcamp/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/kaustub-1410/bootcamp/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
@@ -622,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/kaustub-1410/bootcamp/tree/master/0139-word-break) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/kaustub-1410/bootcamp/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Range Minimum/Maximum Query
 |  |
@@ -632,4 +638,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/kaustub-1410/bootcamp/tree/master/0127-word-ladder) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/kaustub-1410/bootcamp/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
