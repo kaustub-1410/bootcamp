@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/kaustub-1410/bootcamp/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kaustub-1410/bootcamp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/kaustub-1410/bootcamp/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/kaustub-1410/bootcamp/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/kaustub-1410/bootcamp/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/kaustub-1410/bootcamp/tree/master/0707-design-linked-list) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/kaustub-1410/bootcamp/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/kaustub-1410/bootcamp/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/kaustub-1410/bootcamp/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/kaustub-1410/bootcamp/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/kaustub-1410/bootcamp/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/kaustub-1410/bootcamp/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/kaustub-1410/bootcamp/tree/master/0509-fibonacci-number) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kaustub-1410/bootcamp/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kaustub-1410/bootcamp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/kaustub-1410/bootcamp/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kaustub-1410/bootcamp/tree/master/0876-middle-of-the-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kaustub-1410/bootcamp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/kaustub-1410/bootcamp/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/kaustub-1410/bootcamp/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kaustub-1410/bootcamp/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kaustub-1410/bootcamp/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/kaustub-1410/bootcamp/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/kaustub-1410/bootcamp/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kaustub-1410/bootcamp/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/kaustub-1410/bootcamp/tree/master/0682-baseball-game) |
