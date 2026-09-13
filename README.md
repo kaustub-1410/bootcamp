@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/kaustub-1410/bootcamp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/kaustub-1410/bootcamp/tree/master/0146-lru-cache) |
 | [0874-walking-robot-simulation](https://github.com/kaustub-1410/bootcamp/tree/master/0874-walking-robot-simulation) |
 | [1386-cinema-seat-allocation](https://github.com/kaustub-1410/bootcamp/tree/master/1386-cinema-seat-allocation) |
 | [1763-longest-nice-substring](https://github.com/kaustub-1410/bootcamp/tree/master/1763-longest-nice-substring) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kaustub-1410/bootcamp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/kaustub-1410/bootcamp/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/kaustub-1410/bootcamp/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/kaustub-1410/bootcamp/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/kaustub-1410/bootcamp/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/kaustub-1410/bootcamp/tree/master/0707-design-linked-list) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/kaustub-1410/bootcamp/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/kaustub-1410/bootcamp/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kaustub-1410/bootcamp/tree/master/0225-implement-stack-using-queues) |
 | [0707-design-linked-list](https://github.com/kaustub-1410/bootcamp/tree/master/0707-design-linked-list) |
@@ -674,4 +677,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kaustub-1410/bootcamp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0142-linked-list-cycle-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kaustub-1410/bootcamp/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
