@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kaustub-1410/bootcamp/tree/master/0200-number-of-islands) |
 | [0682-baseball-game](https://github.com/kaustub-1410/bootcamp/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/kaustub-1410/bootcamp/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/kaustub-1410/bootcamp/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/kaustub-1410/bootcamp/tree/master/0874-walking-robot-simulation) |
 | [0994-rotting-oranges](https://github.com/kaustub-1410/bootcamp/tree/master/0994-rotting-oranges) |
 | [1386-cinema-seat-allocation](https://github.com/kaustub-1410/bootcamp/tree/master/1386-cinema-seat-allocation) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/kaustub-1410/bootcamp/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kaustub-1410/bootcamp/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/kaustub-1410/bootcamp/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/kaustub-1410/bootcamp/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/kaustub-1410/bootcamp/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kaustub-1410/bootcamp/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Monotonic Stack
