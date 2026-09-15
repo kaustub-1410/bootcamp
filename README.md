@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/kaustub-1410/bootcamp/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kaustub-1410/bootcamp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0164-maximum-gap](https://github.com/kaustub-1410/bootcamp/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/kaustub-1410/bootcamp/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/kaustub-1410/bootcamp/tree/master/0200-number-of-islands) |
 | [0682-baseball-game](https://github.com/kaustub-1410/bootcamp/tree/master/0682-baseball-game) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/kaustub-1410/bootcamp/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/kaustub-1410/bootcamp/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/kaustub-1410/bootcamp/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/kaustub-1410/bootcamp/tree/master/0164-maximum-gap) |
 | [2463-minimum-total-distance-traveled](https://github.com/kaustub-1410/bootcamp/tree/master/2463-minimum-total-distance-traveled) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kaustub-1410/bootcamp/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kaustub-1410/bootcamp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -720,4 +722,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/kaustub-1410/bootcamp/tree/master/0149-max-points-on-a-line) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/kaustub-1410/bootcamp/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/kaustub-1410/bootcamp/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/kaustub-1410/bootcamp/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
