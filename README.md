@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kaustub-1410/bootcamp/tree/master/0169-majority-element) |
 | [0874-walking-robot-simulation](https://github.com/kaustub-1410/bootcamp/tree/master/0874-walking-robot-simulation) |
 | [1386-cinema-seat-allocation](https://github.com/kaustub-1410/bootcamp/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kaustub-1410/bootcamp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1763-longest-nice-substring](https://github.com/kaustub-1410/bootcamp/tree/master/1763-longest-nice-substring) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kaustub-1410/bootcamp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kaustub-1410/bootcamp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kaustub-1410/bootcamp/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kaustub-1410/bootcamp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1763-longest-nice-substring](https://github.com/kaustub-1410/bootcamp/tree/master/1763-longest-nice-substring) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kaustub-1410/bootcamp/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kaustub-1410/bootcamp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/kaustub-1410/bootcamp/tree/master/0874-walking-robot-simulation) |
 | [0994-rotting-oranges](https://github.com/kaustub-1410/bootcamp/tree/master/0994-rotting-oranges) |
 | [1386-cinema-seat-allocation](https://github.com/kaustub-1410/bootcamp/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kaustub-1410/bootcamp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/kaustub-1410/bootcamp/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/kaustub-1410/bootcamp/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1872-stone-game-viii](https://github.com/kaustub-1410/bootcamp/tree/master/1872-stone-game-viii) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/kaustub-1410/bootcamp/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0940-distinct-subsequences-ii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/kaustub-1410/bootcamp/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kaustub-1410/bootcamp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/kaustub-1410/bootcamp/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/kaustub-1410/bootcamp/tree/master/1872-stone-game-viii) |
 | [2463-minimum-total-distance-traveled](https://github.com/kaustub-1410/bootcamp/tree/master/2463-minimum-total-distance-traveled) |
@@ -378,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/kaustub-1410/bootcamp/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kaustub-1410/bootcamp/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kaustub-1410/bootcamp/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kaustub-1410/bootcamp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kaustub-1410/bootcamp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kaustub-1410/bootcamp/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3488-closest-equal-element-queries](https://github.com/kaustub-1410/bootcamp/tree/master/3488-closest-equal-element-queries) |
