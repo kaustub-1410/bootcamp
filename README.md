@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/kaustub-1410/bootcamp/tree/master/0172-factorial-trailing-zeroes) |
 | [0509-fibonacci-number](https://github.com/kaustub-1410/bootcamp/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/kaustub-1410/bootcamp/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/kaustub-1410/bootcamp/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/kaustub-1410/bootcamp/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/kaustub-1410/bootcamp/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/kaustub-1410/bootcamp/tree/master/1927-sum-game) |
@@ -751,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/kaustub-1410/bootcamp/tree/master/0149-max-points-on-a-line) |
 | [0836-rectangle-overlap](https://github.com/kaustub-1410/bootcamp/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/kaustub-1410/bootcamp/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Euclidean Algorithm
 |  |
 | ------- |
