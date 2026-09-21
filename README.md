@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/kaustub-1410/bootcamp/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/kaustub-1410/bootcamp/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/kaustub-1410/bootcamp/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/kaustub-1410/bootcamp/tree/master/0204-count-primes) |
 | [0682-baseball-game](https://github.com/kaustub-1410/bootcamp/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/kaustub-1410/bootcamp/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/kaustub-1410/bootcamp/tree/master/0835-image-overlap) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/kaustub-1410/bootcamp/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/kaustub-1410/bootcamp/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/kaustub-1410/bootcamp/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/kaustub-1410/bootcamp/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/kaustub-1410/bootcamp/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/kaustub-1410/bootcamp/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/kaustub-1410/bootcamp/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/kaustub-1410/bootcamp/tree/master/0204-count-primes) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kaustub-1410/bootcamp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## DP on Trees
 |  |
@@ -661,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/kaustub-1410/bootcamp/tree/master/0204-count-primes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kaustub-1410/bootcamp/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kaustub-1410/bootcamp/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/kaustub-1410/bootcamp/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -803,4 +807,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/kaustub-1410/bootcamp/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/kaustub-1410/bootcamp/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/kaustub-1410/bootcamp/tree/master/0185-department-top-three-salaries) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kaustub-1410/bootcamp/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kaustub-1410/bootcamp/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kaustub-1410/bootcamp/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
