@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/kaustub-1410/bootcamp/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kaustub-1410/bootcamp/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/kaustub-1410/bootcamp/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/kaustub-1410/bootcamp/tree/master/0202-happy-number) |
 | [0874-walking-robot-simulation](https://github.com/kaustub-1410/bootcamp/tree/master/0874-walking-robot-simulation) |
 | [1386-cinema-seat-allocation](https://github.com/kaustub-1410/bootcamp/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kaustub-1410/bootcamp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/kaustub-1410/bootcamp/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/kaustub-1410/bootcamp/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaustub-1410/bootcamp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/kaustub-1410/bootcamp/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/kaustub-1410/bootcamp/tree/master/0876-middle-of-the-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kaustub-1410/bootcamp/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kaustub-1410/bootcamp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/kaustub-1410/bootcamp/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/kaustub-1410/bootcamp/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/kaustub-1410/bootcamp/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/kaustub-1410/bootcamp/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/kaustub-1410/bootcamp/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/kaustub-1410/bootcamp/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/kaustub-1410/bootcamp/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -748,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kaustub-1410/bootcamp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/kaustub-1410/bootcamp/tree/master/0202-happy-number) |
 ## Doubly-Linked List
 |  |
 | ------- |
