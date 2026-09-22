@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/kaustub-1410/bootcamp/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/kaustub-1410/bootcamp/tree/master/3488-closest-equal-element-queries) |
 | [3524-find-x-value-of-array-i](https://github.com/kaustub-1410/bootcamp/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/kaustub-1410/bootcamp/tree/master/3525-find-x-value-of-array-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kaustub-1410/bootcamp/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/kaustub-1410/bootcamp/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/kaustub-1410/bootcamp/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/kaustub-1410/bootcamp/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kaustub-1410/bootcamp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3524-find-x-value-of-array-i](https://github.com/kaustub-1410/bootcamp/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/kaustub-1410/bootcamp/tree/master/3525-find-x-value-of-array-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kaustub-1410/bootcamp/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/kaustub-1410/bootcamp/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3870-count-commas-in-range](https://github.com/kaustub-1410/bootcamp/tree/master/3870-count-commas-in-range) |
@@ -836,4 +838,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kaustub-1410/bootcamp/tree/master/0207-course-schedule) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/kaustub-1410/bootcamp/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
