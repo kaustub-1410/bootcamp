@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kaustub-1410/bootcamp/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/kaustub-1410/bootcamp/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/kaustub-1410/bootcamp/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/kaustub-1410/bootcamp/tree/master/0217-contains-duplicate) |
 | [0874-walking-robot-simulation](https://github.com/kaustub-1410/bootcamp/tree/master/0874-walking-robot-simulation) |
 | [1386-cinema-seat-allocation](https://github.com/kaustub-1410/bootcamp/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kaustub-1410/bootcamp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/kaustub-1410/bootcamp/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/kaustub-1410/bootcamp/tree/master/0217-contains-duplicate) |
 | [0682-baseball-game](https://github.com/kaustub-1410/bootcamp/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/kaustub-1410/bootcamp/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/kaustub-1410/bootcamp/tree/master/0835-image-overlap) |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/kaustub-1410/bootcamp/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/kaustub-1410/bootcamp/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/kaustub-1410/bootcamp/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/kaustub-1410/bootcamp/tree/master/0217-contains-duplicate) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kaustub-1410/bootcamp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2463-minimum-total-distance-traveled](https://github.com/kaustub-1410/bootcamp/tree/master/2463-minimum-total-distance-traveled) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kaustub-1410/bootcamp/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
