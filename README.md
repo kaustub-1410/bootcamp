@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/kaustub-1410/bootcamp/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0213-house-robber-ii) |
+| [0216-combination-sum-iii](https://github.com/kaustub-1410/bootcamp/tree/master/0216-combination-sum-iii) |
 | [0682-baseball-game](https://github.com/kaustub-1410/bootcamp/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/kaustub-1410/bootcamp/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/kaustub-1410/bootcamp/tree/master/0835-image-overlap) |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/kaustub-1410/bootcamp/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0212-word-search-ii) |
+| [0216-combination-sum-iii](https://github.com/kaustub-1410/bootcamp/tree/master/0216-combination-sum-iii) |
 ## Memoization
 |  |
 | ------- |
