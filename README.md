@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kaustub-1410/bootcamp/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/kaustub-1410/bootcamp/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0212-word-search-ii) |
+| [0213-house-robber-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0213-house-robber-ii) |
 | [0682-baseball-game](https://github.com/kaustub-1410/bootcamp/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/kaustub-1410/bootcamp/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/kaustub-1410/bootcamp/tree/master/0835-image-overlap) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/kaustub-1410/bootcamp/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/kaustub-1410/bootcamp/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/kaustub-1410/bootcamp/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/kaustub-1410/bootcamp/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0940-distinct-subsequences-ii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/kaustub-1410/bootcamp/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
