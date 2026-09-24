@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/kaustub-1410/bootcamp/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kaustub-1410/bootcamp/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/kaustub-1410/bootcamp/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/kaustub-1410/bootcamp/tree/master/0215-kth-largest-element-in-an-array) |
 | [1763-longest-nice-substring](https://github.com/kaustub-1410/bootcamp/tree/master/1763-longest-nice-substring) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/kaustub-1410/bootcamp/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/kaustub-1410/bootcamp/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/kaustub-1410/bootcamp/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/kaustub-1410/bootcamp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/kaustub-1410/bootcamp/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/kaustub-1410/bootcamp/tree/master/0217-contains-duplicate) |
 | [0682-baseball-game](https://github.com/kaustub-1410/bootcamp/tree/master/0682-baseball-game) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kaustub-1410/bootcamp/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/kaustub-1410/bootcamp/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -689,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/kaustub-1410/bootcamp/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/kaustub-1410/bootcamp/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/kaustub-1410/bootcamp/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/kaustub-1410/bootcamp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kaustub-1410/bootcamp/tree/master/0217-contains-duplicate) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kaustub-1410/bootcamp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2463-minimum-total-distance-traveled](https://github.com/kaustub-1410/bootcamp/tree/master/2463-minimum-total-distance-traveled) |
@@ -885,4 +889,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/kaustub-1410/bootcamp/tree/master/0214-shortest-palindrome) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/kaustub-1410/bootcamp/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
