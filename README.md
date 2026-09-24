@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kaustub-1410/bootcamp/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/kaustub-1410/bootcamp/tree/master/0220-contains-duplicate-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kaustub-1410/bootcamp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kaustub-1410/bootcamp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1763-longest-nice-substring](https://github.com/kaustub-1410/bootcamp/tree/master/1763-longest-nice-substring) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kaustub-1410/bootcamp/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/kaustub-1410/bootcamp/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/kaustub-1410/bootcamp/tree/master/0220-contains-duplicate-iii) |
 | [0682-baseball-game](https://github.com/kaustub-1410/bootcamp/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/kaustub-1410/bootcamp/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/kaustub-1410/bootcamp/tree/master/0835-image-overlap) |
@@ -701,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kaustub-1410/bootcamp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kaustub-1410/bootcamp/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/kaustub-1410/bootcamp/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/kaustub-1410/bootcamp/tree/master/0220-contains-duplicate-iii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kaustub-1410/bootcamp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2463-minimum-total-distance-traveled](https://github.com/kaustub-1410/bootcamp/tree/master/2463-minimum-total-distance-traveled) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kaustub-1410/bootcamp/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -830,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/kaustub-1410/bootcamp/tree/master/0164-maximum-gap) |
+| [0220-contains-duplicate-iii](https://github.com/kaustub-1410/bootcamp/tree/master/0220-contains-duplicate-iii) |
 ## Radix Sort
 |  |
 | ------- |
@@ -913,4 +917,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/kaustub-1410/bootcamp/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/kaustub-1410/bootcamp/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
