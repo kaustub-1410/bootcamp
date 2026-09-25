@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kaustub-1410/bootcamp/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0219-contains-duplicate-ii) |
 | [0874-walking-robot-simulation](https://github.com/kaustub-1410/bootcamp/tree/master/0874-walking-robot-simulation) |
+| [1096-brace-expansion-ii](https://github.com/kaustub-1410/bootcamp/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/kaustub-1410/bootcamp/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kaustub-1410/bootcamp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kaustub-1410/bootcamp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/kaustub-1410/bootcamp/tree/master/0657-robot-return-to-origin) |
 | [0940-distinct-subsequences-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kaustub-1410/bootcamp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1096-brace-expansion-ii](https://github.com/kaustub-1410/bootcamp/tree/master/1096-brace-expansion-ii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/kaustub-1410/bootcamp/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kaustub-1410/bootcamp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1763-longest-nice-substring](https://github.com/kaustub-1410/bootcamp/tree/master/1763-longest-nice-substring) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/kaustub-1410/bootcamp/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/kaustub-1410/bootcamp/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kaustub-1410/bootcamp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1096-brace-expansion-ii](https://github.com/kaustub-1410/bootcamp/tree/master/1096-brace-expansion-ii) |
 ## Queue
 |  |
 | ------- |
@@ -632,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/kaustub-1410/bootcamp/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kaustub-1410/bootcamp/tree/master/0994-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/kaustub-1410/bootcamp/tree/master/1096-brace-expansion-ii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kaustub-1410/bootcamp/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/kaustub-1410/bootcamp/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kaustub-1410/bootcamp/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -673,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/kaustub-1410/bootcamp/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/kaustub-1410/bootcamp/tree/master/0216-combination-sum-iii) |
+| [1096-brace-expansion-ii](https://github.com/kaustub-1410/bootcamp/tree/master/1096-brace-expansion-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -710,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kaustub-1410/bootcamp/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/kaustub-1410/bootcamp/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/kaustub-1410/bootcamp/tree/master/0220-contains-duplicate-iii) |
+| [1096-brace-expansion-ii](https://github.com/kaustub-1410/bootcamp/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kaustub-1410/bootcamp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2463-minimum-total-distance-traveled](https://github.com/kaustub-1410/bootcamp/tree/master/2463-minimum-total-distance-traveled) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kaustub-1410/bootcamp/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
